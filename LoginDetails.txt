@@ -1,0 +1,11 @@
+#///////////Application URL///////////
+
+sAppURL=https://www.practo.com/
+
+#///////////Username///////////
+
+Username=9021370596
+
+#//////////////Password///////////
+
+Password=9021370596
